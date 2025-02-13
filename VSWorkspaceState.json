@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_admin",
+    "\\app_admin\\src",
+    "\\app_admin\\src\\app",
+    "\\app_admin\\src\\app\\edit-trip",
+    "\\app_admin\\src\\app\\services",
+    "\\app_admin\\src\\app\\trip-card",
+    "\\app_admin\\src\\app\\trip-listing",
+    "\\app_api",
+    "\\app_api\\database"
+  ],
+  "SelectedNode": "\\app_admin\\src\\app\\trip-card\\trip-card.component.ts",
+  "PreviewInSolutionExplorer": false
+}

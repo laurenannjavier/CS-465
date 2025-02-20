@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app_api",
+    "\\app_api\\database",
+    "\\app_api\\models",
+    "\\app_server",
+    "\\app_server\\routes",
+    "\\data",
+    "\\public",
+    "\\public\\images",
+    "\\public\\stylesheets"
+  ],
+  "SelectedNode": "\\public\\stylesheets\\style.css",
+  "PreviewInSolutionExplorer": false
+}
